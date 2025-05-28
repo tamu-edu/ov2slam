@@ -12,11 +12,11 @@ Camera.topic_right: /oak/right/image_raw
 Camera.model_left: pinhole
 Camera.model_right: pinhole
 
-Camera.left_nwidth: 640
-Camera.left_nheight: 480
+Camera.left_nwidth: 1280
+Camera.left_nheight: 720
 
-Camera.right_nwidth: 640
-Camera.right_nheight: 480
+Camera.right_nwidth: 1280
+Camera.right_nheight: 720
 
 # Camera calibration and distortion parameters (OpenCV) 
 Camera.fxl: 320.
